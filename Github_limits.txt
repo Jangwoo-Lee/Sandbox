@@ -1,0 +1,8 @@
+Space limits
+- 1GB per repository
+- 100MB per file
+- Files added to a repository permanently take up space
+
+Recommended workarounds
+- Host binaries/installers on main site
+- Put documentation and sample code on Github

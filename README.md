@@ -20,3 +20,12 @@ description on how to download/run/install/etc
 ## Screenshots
 <img src="images/Tux.png" alt="Linux Logo" height="100">
 
+## Contact
+![Tele icon](images/phone_icon.png) 1-800-555-5555  
+![Mail icon](images/mail_icon.png) address@example.com
+
+<br>
+<br>
+
+###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
