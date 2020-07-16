@@ -1,4 +1,4 @@
-<a href="example.com"><img src="images/Example_logo.png" alt="Example Logo" height="150"></a>
+[![Example Logo](images/Example_Logo.png)](example.com)
 
 # Repo Name
  licensing info badges from shields.io
