@@ -2,8 +2,6 @@
 
 <table><tr align="center"><td valign="middle" width="20%"><img src="images/wayfinder.png" alt="Wayfinder DVL" height="100"></td><td width="70%"><h1> Wayfinder DVL </h1></td><td width="10%"><a href="example.com">Shopify Link</a></td></tr></table>
 
-<h1><img src="images/wayfinder.png" alt="Wayfinder DVL" height="100"> Wayfinder DVL<a href="example.com">Shopify Link</a></h1> 
-
 # Wayfinder Python Driver
 Python driver for Wayfinder DVL  
 Contains sample code for python drivers
