@@ -1,31 +1,31 @@
-[![Example Logo](images/Example_Logo.png)](example.com)
+[![Teledyne Logo](images/TeledyneLogo.svg)](teledynemarine.com)
 
-# Repo Name
- licensing info badges from shields.io
+# <table><tr><td valign="middle"><img src="images/wayfinder.png" alt="Wayfinder DVL" height="100"></td><td> Wayfinder DVL</td></tr></table>
 
-## General Info
-* short description of what repository is for
-* and what each folder contains
+# Wayfinder Python Driver
+Python driver for Wayfinder DVL  
+Contains sample code for python drivers
 
 ## Sample code
 Opening the example python file shows:  
 `print("Hello world!")`
 
+## Links
+[Shopify link](example.com)
+
 ## How to use
-description on how to download/run/install/etc
+description on how to download/run/install/etc  
 
     $ python hello_world.py
     Hello world!  
 
-## Screenshots
-<img src="images/Tux.png" alt="Linux Logo" height="100">
-
 ## Contact
-![Tele icon](images/phone_icon.png) 1-800-555-5555  
-![Mail icon](images/mail_icon.png) address@example.com
+![Tele icon](images/phone_icon.png) +1-858-842-2700  
+![Mail icon](images/mail_icon.png) rdifs@teledyne.com  
+![Support icon](images/support_icon.png) http://www.teledynemarine.com/rdi/support
 
 <br>
 <br>
 
-###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> and <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
 
